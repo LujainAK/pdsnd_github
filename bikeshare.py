@@ -184,6 +184,8 @@ def user_stats(df):
 
     
 def raw_data(df):
+	"""Display 5 lines of raw data each time."""
+	
     rawdata = input("\nWould you like to see raw data? Enter 'yes' or 'no': ").lower()
     counter = 0
     while rawdata == "yes":
