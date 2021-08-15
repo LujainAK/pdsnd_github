@@ -4,7 +4,7 @@ This python project is created for *Programming for Data Science with Python Nan
  * New York City 
  * Washington 
 
-### What does it do? 
+### What Does It Do? 
 It asks the user to enter the **city**, **month** and **day** that he wants to see its data. Then, It will display the required data and it will ask him -the user- if he wants to display raw data. At the end, it will ask the user if he wants to restart. 
 
 ###  The Statistics 
@@ -28,3 +28,8 @@ It asks the user to enter the **city**, **month** and **day** that he wants to s
 3. The earliest year of birth.
 4. The most recent year of birth.
 5. The most common year of birth.
+
+### The Libraries Used For This Project:
+* Time 
+* Pandas
+* NumPy 
